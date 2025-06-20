@@ -133,5 +133,3 @@ Chutyia License
 ---
 
 *Built with ❤️ using Python*
-
-```
