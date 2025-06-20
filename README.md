@@ -36,7 +36,7 @@ cli\_framework/
 │   ├── client\_api/      # Optional base commands
 │   └── host\_api.py      # Host services (env, file ops)
 ├── utils.py             # Utility functions
-├── **init**.py          # Package initializer
+├── __init__.py          # Package initializer
 └── run.py               # (Optional) framework demo CLI entrypoint
 
 my\_cli\_app/
