@@ -52,50 +52,29 @@ my\_cli\_app/
 
 ## ⚙️ Getting Started
 
-### 1. Install the framework (local development)
+### 1. Install the framework
 
-```bash
-git clone <https://github.com/Im-Samy/codename-CLIX->
-cd cli_framework
-pip install -e .
-````
+```
+```
 
 ### 2. Create your CLI app
 
-```bash
-mkdir my_cli_app
-cd my_cli_app
+```
 ```
 
 ### 3. Define commands
 
-`commands/greet.py`:
-
-```python
-from cli_framework.core.command import command
-
-@command(name="greet")
-def greet(name: str = "World", times: int = 1):
-    for _ in range(times):
-        print(f"Hello, {name}!")
+```
 ```
 
 ### 4. Create CLI entrypoint
 
-`main.py`:
-
-```python
-from cli_framework.core.app import CLIApp
-import my_cli_app.commands.greet  # Import commands to register
-
-if __name__ == "__main__":
-    CLIApp().run()
+```
 ```
 
 ### 5. Run your CLI app
 
-```bash
-python main.py greet --name Alice --times 3
+```
 ```
 
 Output:
