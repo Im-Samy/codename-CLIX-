@@ -24,6 +24,7 @@ Designed to be a reusable core for building command-line applications with clean
 ## 📂 Project Structure
 
 ```
+
 ```
 cli\_framework/
 ├── core/
@@ -133,3 +134,6 @@ Chutyia License
 ---
 
 *Built with ❤️ using Python*
+
+---
+*Note: the code provided as the example is modifyed by chatgpt. Also this readme file created by Chatgpt*
