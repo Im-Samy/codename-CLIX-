@@ -80,7 +80,6 @@ my\_cli\_app/
 Output:
 
 ```
-Hello, unknown!
 ```
 
 ---
