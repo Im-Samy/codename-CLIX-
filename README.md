@@ -1,6 +1,5 @@
-# Codename-CLIX-
+# Codename -{CLIX}-
 inspired by click and typers
-Here you go! A clean, detailed README.md ready for your modular CLI framework project:
 
 ```markdown
 # Modular Python CLI Framework
