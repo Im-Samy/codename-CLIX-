@@ -55,7 +55,7 @@ my\_cli\_app/
 ### 1. Install the framework (local development)
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Im-Samy/codename-CLIX->
 cd cli_framework
 pip install -e .
 ````
